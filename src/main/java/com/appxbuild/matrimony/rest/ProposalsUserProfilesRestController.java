@@ -1,6 +1,5 @@
 package com.appxbuild.matrimony.rest;
 
-import com.appxbuild.matrimony.entity.Proposals;
 import com.appxbuild.matrimony.entity.ProposalsUserProfiles;
 import com.appxbuild.matrimony.service.ProposalsUserProfilesService;
 import org.springframework.web.bind.annotation.*;
